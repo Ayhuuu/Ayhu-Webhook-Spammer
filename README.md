@@ -15,3 +15,4 @@
 3. Dosyayı nereye kaydettiyseniz orayı açın (cd Downloads) sonra python webhook.py yazın
 
 4. Gerekli alanları doldurun. Iterations kısmına 999 yazabilirsiniz İyi Kullanmalar! 
+.
