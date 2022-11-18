@@ -1,5 +1,5 @@
 <h1>
-https://media.discordapp.net/attachments/632566254351417368/850460213761146911/image0.gif
+
 </h1>
 
 <h2 align="center">
