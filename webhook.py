@@ -5,6 +5,7 @@ import requests
 #Coded by Ayhuuu 
 from colorama import Fore, init
 #https://github.com/Ayhuuu
+#
 class webhook_spam:
     def __init__(self):
         self.choice = int(input(f"{Fore.MAGENTA}Webhook Spam icin (1) yada silmek icin (2){Fore.RESET} >>> "))
