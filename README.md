@@ -1,6 +1,6 @@
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/632566254351417368/850460213761146911/image0.gif" width="400"></img>
+<img src="https://media.discordapp.net/attachments/632566254351417368/850460213761146911/image0.gif" width="500"></img>
   </kbd>
 </p>
 <h2 align="center">
